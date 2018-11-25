@@ -7,4 +7,6 @@ Several Algorithms have been run on the data which are
 1. DECISION TREES
 2. RANDOM FORESTS (ENSEMBLE METHOD)
 3. NAIVE BAYES
+4. NEURAL NETWORKS 
 
+After the analysis NEURAL NETWORK was proven to be giving best results with the test data.
